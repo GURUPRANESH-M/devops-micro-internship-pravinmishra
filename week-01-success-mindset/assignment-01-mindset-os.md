@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+There is nothing like that because i always believe things would get right for me, so there's nothing people disagree
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+FAIL BUT LEARN
 
 ### Evidence from my life
 
-Add your answer here...
+i learnt that we can learn lot of things while failing, which push us towards success
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Life can give any things we need
 
 ### Evidence from my life
 
-Add your answer here...
+i learnt that life will give us whatever we need , but we have to stay strong and shouldnt give up
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+NEVER GIVE UP
 
 ### Evidence from my life
 
-Add your answer here...
+Try consisitently so for sure we can win
 
 ---
 
@@ -145,7 +145,7 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+i have achieved everything that i wanted to achieve and feeling happy and grateful for what i have right now. i am now highly skilled and motivated and string minded person
 
 ### Public Link
 
@@ -183,7 +183,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Add your Answer here...
 
 ---
 
@@ -209,16 +209,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Alchemist — Paulo Coelho
+2. Atomic Habits — James Clear
+3. The Psychology of Money — Morgan Housel
+4. Rich Dad Poor Dad — Robert Kiyosaki
+5. The 7 Habits of Highly Effective People — Stephen R. Covey
+6. Think and Grow Rich — Napoleon Hill
+7. Ikigai — Héctor García & Francesc Miralles
+8. Deep Work — Cal Newport
+9. The Power of Now — Eckhart Tolle
+10. Man’s Search for Meaning — Viktor E. Frankl
 
 ---
 
@@ -308,11 +308,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+daily
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+One session
 
 ---
 
@@ -326,7 +326,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+keep phone aside and focus
 
 ---
 
@@ -342,7 +342,7 @@ Add your answer here...
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+work consistently
 
 ### LinkedIn Post
 

@@ -34,8 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
-
+I learned that a networking protocol is a set of rules that devices follow to communicate with each other. The real-life examples helped me understand how protocols make communication organized and understandable between different devices.
 ---
 
 # 🌐 Task 2: Internet and Networking
@@ -59,8 +58,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
-
+When a user opens the EpicReads website from anywhere in the world, the request is divided into small units of data called packets. These packets travel through different networks using packet switching, where each packet can take an efficient route to reach the destination. The EpicReads server has an IP address that uniquely identifies it on the Internet. TCP/IP provides the basic rules for delivering these packets reliably between the user's device and the server. TCP handles reliable delivery while IP is responsible for addressing and routing packets. When the user accesses EpicReads, the browser communicates with the server using HTTP or HTTPS. HTTPS is preferred because it encrypts the communication, protecting sensitive information such as login credentials and payment details. Finally, the server sends the requested webpage back to the user's device.
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
@@ -102,18 +100,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+* Angular
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Spring Boot
+* Node.js / Express
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -142,7 +140,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the Internet's phonebook. It converts human-readable domain names such as epicreads.com into IP addresses that computers use to locate servers. Since the EpicReads server is available at 52.172.142.222, an A record should be used to connect epicreads.com to this IPv4 address. When a user enters epicreads.com in a browser, DNS looks up the A record and returns the server's IP address, allowing the browser to connect to the correct server.
 
 ---
 
@@ -253,13 +251,13 @@ Add your answer here...
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how packets travel through different networks and how TCP/IP works together was initially difficult. I also needed some practice to understand the difference between two-tier and three-tier architecture.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will focus on understanding DevOps tools more practically. I want to spend more time using the terminal, learning Linux commands, and understanding how these concepts are applied in real-world development and deployment.
 
 ---
 
