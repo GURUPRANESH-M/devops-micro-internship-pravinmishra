@@ -228,7 +228,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/gZfYmP5D
 ```
 
 ---
@@ -237,15 +237,40 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Week 00 — Starting My DevOps Journey!
 
+I have completed Week 00 of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI, focusing on the fundamentals of Internet and Networking.
+
+ChatGPT
+I learned how networking protocols act as a set of rules that allow devices to communicate with each other. Using real-life examples made the concept easier to understand.
+
+Internet & Networking
+I explored how users around the world can access a website hosted on a server in Finland using packet switching, IP addresses, TCP/IP, and HTTP/HTTPS.
+
+App Architecture
+I learned the difference between two-tier and three-tier application architectures and explored common technologies used for frontend, backend, and database layers.
+
+DNS
+I learned how DNS translates human-readable domain names into IP addresses. I also learned that an A record can be used to connect a domain name to an IPv4 address.
+
+VS Code Setup
+I configured my development environment and practiced using the integrated terminal to execute basic commands.
+This week helped me strengthen my networking fundamentals and gave me a better understanding of concepts that are important for my DevOps journey.
+
+Looking forward to learning and building more in the upcoming weeks!
+#DevOps #Networking #CloudComputing #DevOpsJourney #Learning #DMI #AgenticAI #TechLearning
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/gCHfQQ9j
+
+Start your DevOps journey: https://lnkd.in/gptRrxAt
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts such as protocols, IP addresses, HTTP/HTTPS, and DNS easy to understand. Using real-world examples made these concepts clearer and helped me understand how different components work together when accessing a website.
+
 
 ---
 
