@@ -130,7 +130,7 @@ Week 00 → Internet & Networking Basics
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/gZfYmP5D | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/gurupranesh-m-14441b293_devops-networking-cloudcomputing-share-7503450974204710914-St62/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcTPAQBP13HHWUcK0Ep-VK5LY6Dqo2Jpo4 | — |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
