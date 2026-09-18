@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-There is nothing like that because i always believe things would get right for me, so there's nothing people disagree
+I believe that consistent effort can change a person's situation much more than talent or luck. Many people around me believe that success mainly depends on having the right opportunities, connections, or natural talent. I believe that even when someone starts with limited resources or faces repeated failures, continuous learning, discipline, and persistence can create better opportunities over time. I have seen this in my own learning journey, where struggling with technical concepts and projects eventually helped me become more confident and capable.
 
 ---
 
@@ -55,23 +55,22 @@ Write each truth in this format:
 
 ### Truth
 
-FAIL BUT LEARN
+Failure is a part of learning, and every failure can reveal what needs to be improved.
 
 ### Evidence from my life
 
-i learnt that we can learn lot of things while failing, which push us towards success
-
+While learning programming and building projects, I have faced many errors and failures, especially while working with Spring Boot, React, databases, APIs, authentication, and deployment. Instead of treating these problems only as setbacks, I used them to understand concepts more deeply. Debugging errors often taught me more than simply following a tutorial.
 ---
 
 ## Truth #2
 
 ### Truth
 
-Life can give any things we need
+Consistent effort produces better results than depending on motivation alone.
 
 ### Evidence from my life
 
-i learnt that life will give us whatever we need , but we have to stay strong and shouldnt give up
+I have worked on DSA, full-stack development, backend development, databases, and other technical skills over a long period. There were days when I was highly motivated and days when I was not. I noticed that progress happened when I continued working even on the days when motivation was low. Consistency helped me build skills gradually.
 
 ---
 
@@ -79,11 +78,11 @@ i learnt that life will give us whatever we need , but we have to stay strong an
 
 ### Truth
 
-NEVER GIVE UP
+Difficult goals become achievable when they are divided into smaller actions and pursued consistently.
 
 ### Evidence from my life
 
-Try consisitently so for sure we can win
+I have worked on multiple technical projects and prepared for coding and technical interviews by breaking large topics into smaller areas. Instead of trying to master everything at once, I practiced individual concepts, solved problems, built features, and debugged issues one by one. This approach made large goals much more manageable.
 
 ---
 
@@ -145,13 +144,33 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-i have achieved everything that i wanted to achieve and feeling happy and grateful for what i have right now. i am now highly skilled and motivated and string minded person
+Three to seven years from now, Gurupranesh had built a strong career as a backend-focused full-stack engineer with a deep understanding of Java, Spring Boot, databases, cloud technologies, DevOps, and modern web development.
+
+His journey started with a strong focus on learning the fundamentals rather than simply collecting technologies. Over the years, he worked extensively with Java, Spring Boot, REST APIs, PostgreSQL, MySQL, MongoDB, React, Git, Docker, AWS, and CI/CD practices. He built and shipped several real-world projects instead of limiting his learning to tutorials.
+
+One of the important parts of his portfolio was a flight booking system that demonstrated authentication, authorization, JWT-based security, role-based access, flight management, and booking functionality. He also worked on applications involving household task management, job portals, grievance reporting, movie discovery, and other practical problems. These projects gave him experience with designing APIs, connecting frontend and backend systems, managing databases, handling authentication, debugging production-like issues, and deploying applications.
+
+He maintained an active GitHub portfolio where his projects, source code, documentation, and development progress were publicly available. His repositories demonstrated not only the final applications but also the engineering process behind them. He gradually improved his ability to write cleaner code, design better APIs, debug efficiently, and understand how different components of a software system work together.
+
+He also strengthened his problem-solving skills by consistently practicing Data Structures and Algorithms. Instead of focusing only on solving problems, he learned to analyze time and space complexity and understand why different approaches worked. This preparation helped him become more confident during technical interviews and real-world development.
+
+Alongside development, he built knowledge in cloud computing and DevOps. He worked with AWS concepts, Docker, deployment platforms, version control, CI/CD, and application deployment. His participation in the DevOps Micro Internship further exposed him to professional engineering practices, systems thinking, documentation, and continuous improvement.
+
+He also developed communication and leadership skills. He contributed to technical discussions, documented what he learned, shared projects publicly, and helped others when he could. He published technical learnings through LinkedIn, blogs, or other public platforms, creating a visible record of his growth.
+
+Professionally, he had moved into a backend-heavy software engineering role where he worked on APIs, business logic, databases, distributed systems, and cloud-based applications. He was comfortable collaborating with frontend developers, understanding infrastructure requirements, reviewing code, and taking ownership of features from development to deployment.
+
+The biggest difference between his earlier version and his 2.0 version was not simply the number of technologies he knew. He had become more disciplined, resilient, systematic, and confident. He had learned how to approach unfamiliar problems instead of being afraid of them.
+
+His GitHub portfolio, projects, technical knowledge, work experience, certifications, and public learning record became evidence of his progress. He had transformed from a student learning technologies into an engineer capable of using those technologies to solve real problems.
+
+Most importantly, he had built a mindset of continuous improvement. He understood that becoming a good engineer was not a destination but a long-term process of learning, building, failing, improving, and contributing.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://medium.com/@gurupraneshkcs/my-2-0-the-engineer-i-became-756024b8defd?sharedUserId=gurupraneshkcs
 
 ---
 
@@ -183,7 +202,7 @@ If Yes:
 
 ## Answer
 
-Add your Answer here...
+I have sometimes taken shortcuts while learning or completing tasks, especially when I was trying to finish something quickly. Although the shortcut helped me save time temporarily, I did not always feel satisfied afterward because I knew that I had not understood or completed the task as thoroughly as I could have. It created a feeling of regret because I realized that short-term convenience can reduce long-term learning. This taught me that doing things properly is usually more valuable than simply completing them quickly.
 
 ---
 
@@ -247,16 +266,10 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* Sleep hours
+* Exercise/workout consistency
+* Weekly goals completed
 
 ---
 
@@ -280,9 +293,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
+I wrote down the major things currently occupying my mind, including my career goals, technical learning, DSA preparation, projects, DevOps learning, interview preparation, academic responsibilities, personal responsibilities, pending tasks, and ideas for future projects. Writing everything down helped me separate important priorities from things that were simply creating mental pressure.
 
 ---
 
@@ -300,7 +313,30 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday – Friday
+
+1–2 hours: DSA and problem solving
+1–2 hours: Development / project work
+1 hour: DevOps Micro Internship / technical learning
+30 minutes: Revision and documentation
+
+Saturday
+
+Longer project/development session
+DMI assignments and practical work
+DSA practice
+GitHub documentation
+Review the week's progress
+
+Sunday
+
+Weekly review
+Revise important technical concepts
+Complete unfinished tasks
+Plan the next week
+Update progress metrics
+
+The routine will be adjusted when college examinations or academic deadlines require additional time.
 
 ---
 
@@ -308,11 +344,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-daily
+Daily during my dedicated learning block, preferably in the evening.
 
 #### How Many Sessions Per Week?
 
-One session
+One focused DMI session per day, with additional time on weekends when required for assignments or practical work.
 
 ---
 
@@ -326,7 +362,16 @@ Examples:
 
 #### My Distraction Rules
 
-keep phone aside and focus
+Keep my phone away from my study/work area during deep-work sessions.
+Avoid unnecessary social media during study hours.
+Use only the browser tabs and applications required for the current task.
+Complete one important task before switching to another.
+Avoid watching unrelated videos while studying.
+Use breaks intentionally instead of turning short breaks into long distractions.
+Keep my workspace clean and ready before starting a focus session.
+Track unfinished tasks instead of repeatedly thinking about them.
+Avoid multitasking during technical learning.
+Use entertainment only after completing the day's important work.
 
 ---
 
@@ -334,28 +379,49 @@ keep phone aside and focus
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+My biggest insight was that I have the ability to keep moving forward even when things do not go as planned. I realized that success is not only about achieving a goal but also about developing the discipline and mindset required to continue working toward it. Failures, technical problems, and difficult situations can become useful learning experiences when I take responsibility and learn from them.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is inconsistency when I try to manage too many goals at the same time. I sometimes become interested in several technologies and goals simultaneously, which can divide my attention. I realized that I need to prioritize important tasks, work on them consistently, and avoid constantly switching between different areas.
 
 ### One system I will implement from this week (exact habit + time)
 
-work consistently
+Every day at 8:00 PM, I will complete one focused learning session without my phone, followed by a short review of what I completed and what needs to be done next.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
+Week 01 of my DevOps Micro Internship — Success Mindset
 
-`Add your URL here`
+I have started my journey with the DevOps Micro Internship (DMI) — Cohort 3, and Week 01 focused on something that is easy to underestimate: building the right mindset.
+This week made me reflect on how I approach learning, failure, consistency, and long-term goals.
+
+A few important lessons I identified:
+🔹 Failure is a part of learning. Every technical error or failed attempt can reveal something that needs to be improved.
+🔹 Consistency matters more than motivation. Motivation changes from day to day, but consistent effort creates progress.
+🔹 Large goals become manageable when they are broken into smaller actions and completed consistently.
+I also defined the kind of engineer I want to become over the next few years — a backend-focused full-stack engineer with strong skills in Java, Spring Boot, databases, cloud, DevOps, and problem solving.
+
+I have also created a five-month system for tracking learning, projects, DSA practice, deep-work sessions, health, and finances.
+
+The main takeaway from Week 01 is simple:
+"Don't just set goals. Build systems that make progress repeatable."
+
+Looking forward to continuing the DMI journey and documenting the progress publicly.
+
+#DevOps #DMI #LearningInPublic #SoftwareEngineering #Java #SpringBoot #CloudComputing #CareerGrowth #AgenticAI
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/gCHfQQ9j
+
+linkedin.com/posts/gurupranesh-m-14441b293_devops-dmi-learninginpublic-share-7506743286318047232-XY6k/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7506743289069359104&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcTPAQBP13HHWUcK0Ep-VK5LY6Dqo2Jpo4
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: linkedin.com/posts/gurupranesh-m-14441b293_devops-dmi-learninginpublic-share-7506743286318047232-XY6k/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7506743289069359104&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcTPAQBP13HHWUcK0Ep-VK5LY6Dqo2Jpo4 
+- Blog / Medium : https://medium.com/@gurupraneshkcs/my-2-0-the-engineer-i-became-756024b8defd?sharedUserId=gurupraneshkcs
 
 ---
 

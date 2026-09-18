@@ -70,8 +70,8 @@ This is not a course. It is an internship-style program — real deployments, re
 Week 00 → Internet & Networking Basics
 [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -130,8 +130,8 @@ Week 00 → Internet & Networking Basics
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/gurupranesh-m-14441b293_devops-networking-cloudcomputing-share-7503450974204710914-St62/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcTPAQBP13HHWUcK0Ep-VK5LY6Dqo2Jpo4 | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/gurupranesh-m-14441b293_devops-networking-cloudcomputing-share-7503450974204710914-St62/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcTPAQBP13HHWUcK0Ep-VK5LY6Dqo2Jpo4 | https://medium.com/@gurupraneshkcs/my-2-0-the-engineer-i-became-756024b8defd?sharedUserId=gurupraneshkcs |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/gurupranesh-m-14441b293_devops-dmi-learninginpublic-share-7506743286318047232-XY6k/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7506743289069359104&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcTPAQBP13HHWUcK0Ep-VK5LY6Dqo2Jpo4 | https://medium.com/@gurupraneshkcs/my-2-0-the-engineer-i-became-756024b8defd?sharedUserId=gurupraneshkcs |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
